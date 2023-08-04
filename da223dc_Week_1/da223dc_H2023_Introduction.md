@@ -16,6 +16,9 @@ Sedan har jag också lärt mig att göra ordnade och oordnade listor som visas h
 - Nummer 2
 - Nummer 3
 
+En emoji 😂
+
+
 Här är en bra länk till några tutorials på YouTube som man kan kika på om man är intresserad. 
 [Visit Computer Science LNU](https://www.youtube.com/@cslnu)
 
